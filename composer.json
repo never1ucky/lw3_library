@@ -1,0 +1,17 @@
+{
+    "name": "lw3/library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Lw3\\Library\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "never1ucky",
+            "email": "z_bahtin@mail.ru"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev"
+}
